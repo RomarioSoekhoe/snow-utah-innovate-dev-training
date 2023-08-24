@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8379c4aa97f43110a0cd38271153af5e" label="Innovation" max_length="40" name="x_1113201_innovate_innovation" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="cost_saving" display="true" label="Idea type" mandatory="true" max_length="40" name="idea_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cost saving" value="cost_saving"/>
+                <element inactive_on_update="false" label="Process improvement" value="process_improvement"/>
+                <element inactive_on_update="false" label="Team building" value="team_building"/>
+            </choice>
+        </element>
+        <element label="Idea implemented" max_length="40" name="idea_implemented" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="125" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated" max_length="40" name="updated" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Created" max_length="40" name="created" type="glide_date_time"/>
+    </element>
+</database>
