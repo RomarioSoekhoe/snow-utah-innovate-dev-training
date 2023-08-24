@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="904cc86e97f43110a0cd38271153afde" label="innovate" max_length="40" name="x_1113201_innovate_innovate" type="collection">
+        <element label="Description" mandatory="true" max_length="1000" name="description" type="string"/>
+        <element choice="3" label="Idea type" mandatory="true" max_length="40" name="idea_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cost savings" sequence="0" value="cost_savings"/>
+                <element inactive_on_update="false" label="Process Improvement" sequence="1" value="process_improvement"/>
+                <element inactive_on_update="false" label="Team Building" sequence="2" value="team_building"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Short description" mandatory="true" max_length="125" name="short_description" type="string"/>
+    </element>
+</database>

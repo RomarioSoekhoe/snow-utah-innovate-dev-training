@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="short_description" label="Short description" language="en" table="x_1113201_innovate_innovation">
+    <sys_documentation element="number" label="Number" language="en" table="x_1113201_innovate_innovate">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>short_description</element>
+            <element>number</element>
             <help/>
             <hint/>
-            <label>Short description</label>
+            <label>Number</label>
             <language>en</language>
-            <name>x_1113201_innovate_innovation</name>
-            <plural>Short descriptions</plural>
+            <name>x_1113201_innovate_innovate</name>
+            <plural>Numbers</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-24 10:09:53</sys_created_on>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Short description</sys_name>
+            <sys_created_on>2023-08-24 10:29:04</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Number</sys_name>
             <sys_package display_value="Innovate" source="x_1113201_innovate">c728082a97f43110a0cd38271153af6f</sys_package>
             <sys_policy/>
             <sys_scope display_value="Innovate">c728082a97f43110a0cd38271153af6f</sys_scope>
-            <sys_update_name>sys_documentation_x_1113201_innovate_innovation_short_description_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1113201_innovate_innovate_number_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-24 10:09:53</sys_updated_on>
+            <sys_updated_on>2023-08-24 10:41:12</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

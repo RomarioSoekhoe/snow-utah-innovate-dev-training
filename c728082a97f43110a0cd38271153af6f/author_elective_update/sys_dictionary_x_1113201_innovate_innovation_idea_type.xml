@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="idea_type" table="x_1113201_innovate_innovation">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>3</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Idea type</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value>cost_saving</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>true</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>idea_type</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Choice">choice</internal_type>
+        <mandatory>true</mandatory>
+        <max_length>40</max_length>
+        <name>x_1113201_innovate_innovation</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 10:09:53</sys_created_on>
+        <sys_id>1379c4aa97f43110a0cd38271153afce</sys_id>
+        <sys_name>Idea type</sys_name>
+        <sys_package display_value="Innovate" source="x_1113201_innovate">c728082a97f43110a0cd38271153af6f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">c728082a97f43110a0cd38271153af6f</sys_scope>
+        <sys_update_name>sys_dictionary_x_1113201_innovate_innovation_idea_type</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 10:09:54</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Innovate">c728082a97f43110a0cd38271153af6f</application>
+        <file_path/>
+        <instance_id>145fd375db8633089df22f17d49619a1</instance_id>
+        <instance_name>dev87606</instance_name>
+        <name>sys_dictionary_x_1113201_innovate_innovation_idea_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="idea_type" table="x_1113201_innovate_innovation"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>3</choice><choice_field/><choice_table/><column_label>Idea type</column_label><comments/><create_roles/><default_value>cost_saving</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>true</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>idea_type</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Choice">choice</internal_type><mandatory>true</mandatory><max_length>40</max_length><name>x_1113201_innovate_innovation</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-24 10:09:53</sys_created_on><sys_id>1379c4aa97f43110a0cd38271153afce</sys_id><sys_name>Idea type</sys_name><sys_package display_value="Innovate" source="x_1113201_innovate">c728082a97f43110a0cd38271153af6f</sys_package><sys_policy/><sys_scope display_value="Innovate">c728082a97f43110a0cd38271153af6f</sys_scope><sys_update_name>sys_dictionary_x_1113201_innovate_innovation_idea_type</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-24 10:09:54</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1729328533</payload_hash>
+        <record_name>Innovation.Idea type</record_name>
+        <reverted_from/>
+        <source>0b28082a97f43110a0cd38271153af71</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 10:09:54</sys_created_on>
+        <sys_id>a77908aa97f43110a0cd38271153af23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a27059f2c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 10:09:54</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>ef7908aa5df4311059d9c2415db41422</update_guid>
+        <update_guid_history>ef7908aa5df4311059d9c2415db41422:-1729328533,6f7908aa53f43110ac16a732b1500514:-993856499,9779c4aa81f4311030719698d4ef35fa:-567135317</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 10:17:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>8aeec9079a3c447c9ec04dd60a29fc51</sys_id>
+        <sys_metadata>1379c4aa97f43110a0cd38271153afce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Idea type</sys_name>
+        <sys_package display_value="Innovate" source="x_1113201_innovate">c728082a97f43110a0cd38271153af6f</sys_package>
+        <sys_parent display_value="">8379c4aa97f43110a0cd38271153af5e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">c728082a97f43110a0cd38271153af6f</sys_scope>
+        <sys_scope_delete display_value="">25025b375e844e34bcf938dcf38edfa9</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1113201_innovate_innovation_idea_type</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1113201_innovate_innovation_idea_type">a77908aa97f43110a0cd38271153af23</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 10:17:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
